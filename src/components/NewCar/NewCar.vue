@@ -292,7 +292,6 @@
         'carsBox',
         'carsEngines',
         'carsBodyes',
-
         'carsExtraOption',
       ])
     },
