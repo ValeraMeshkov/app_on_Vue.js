@@ -22,7 +22,7 @@
     "dgram": "^1.0.1",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
-    "express-fileupload": "^1.1.4",
+    "express-fileupload": "^1.1.9",
     "filepond": "^4.4.6",
     "filepond-plugin-file-validate-type": "^1.2.4",
     "filepond-plugin-image-preview": "^4.1.1",
